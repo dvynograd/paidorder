@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <vynorad_order_update>
+            <general>
+                <enabled>disabled</enabled>
+                <factor>10</factor>
+                <order_status>complete</order_status>
+            </general>
+        </vynorad_order_update>
+    </default>
+</config>
